@@ -24,5 +24,5 @@ The highest accuracy was obtained by ANN i.e 99.3
 USER INTERFACE-
 Created using FLASK which is a python web framework to interact with the system. The model ANN which gave the highest accuracy runs in background and givves the prediction.
 
-##NOTE- While creating project it is preferred to install all required libraries in your computer so that user interface can be created 
+##NOTE- While creating project it is preferred to install all required libraries in your computer so that user interface can be created easily.
 
